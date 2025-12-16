@@ -19,4 +19,4 @@ jobs:
         run: cmd /c start.bat
 
       - name: Time Counter
-        run: Start-Sleep -Seconds 12
+        run: Start-Sleep -Seconds 9999900000000
